@@ -9,7 +9,7 @@ This repository is a collection of my programming projects, showcasing my journe
 - **Stone Paper Scissors Game**: A classic interactive game challenging computer opponents
 - **Math Game**: An educational game to improve mathematical skills
 - **Bank Project**: A simplified banking application with core banking functionalities
-- **Tic-Tac-Toe Game**: A simple Tic Tac Toe game with simple cncepts of oop abstraction etc-..
+- **Tic-Tac-Toe Game**: A simple Tic Tac Toe game with simple cncepts of oop abstraction etc-.. 
 
 ## 🎯 Repository Goals
 
